@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Bai1</title>
+	<link rel="stylesheet" type="text/css" href="Bai1_css.css">
+</head>
+<body>
+	<div class="sanpham">
+		<div id="anh1"><img src="1.jpg" alt=""></div>
+		<div class="ten">Galaxy note 1</div>
+		<div class="gia">1.000.000d</div>
+	</div>
+	<div class="sanpham">
+
+		<div id="anh2"><img src="2.jpg" alt=""></div>
+		<div class="ten">Galaxy note 2</div>
+		<div class="gia">2.000.000d</div>
+	</div>
+	<div class="sanpham">
+
+		<div id="anh3"><img src="9.jpg" alt=""></div>
+		<div class="ten">Galaxy note 3</div>
+		<div class="gia">3.000.000d</div>
+	</div>
+	<div class="sanpham">
+
+		<div id="anh4"><img src="4.jpg" alt=""></div>
+		<div class="ten">Galaxy note 4</div>
+		<div class="gia">4.000.000d</div>
+	</div>
+	<div class="sanpham">
+
+		<div id="anh5"><img src="5.jpg" alt=""></div>
+		<div class="ten">Galaxy note 5</div>
+		<div class="gia">5.000.000d</div>
+	</div>
+	<div class="sanpham">
+
+		<div id="anh6"><img src="6.jpg" alt=""></div>
+		<div class="ten">Galaxy note 6</div>
+		<div class="gia">6.000.000d</div>
+	</div>
+	<div class="sanpham">
+
+		<div id="anh7"><img src="7.jpg" alt=""></div>
+		<div class="ten">Galaxy note 7</div>
+		<div class="gia">7.000.000d</div>
+	</div>
+</body>
+</html>

@@ -1,0 +1,29 @@
+.menu-lv2> img{
+	background-color: #78b43d;
+}
+ul{
+	list-style: none;
+	width: 100%;
+	float: left;
+	margin: 0;
+	padding: 0px;
+	background-color: #78b43d;
+}
+.menu-lv2{
+	float: left;
+	padding: 0 10px;
+	border-right: 1px white solid;
+	height: 60px;
+	line-height: 60px;
+	position: relative;
+}
+.menu-lv3{
+	position: absolute;
+	top: 60px;
+	left: 0px;
+	width: 20px;
+	display: none;	
+}
+li{
+	cursor: pointer;
+}
